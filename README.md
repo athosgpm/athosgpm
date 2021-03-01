@@ -1,4 +1,4 @@
-#<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey there, I'm Athos Mesquita, nice to meet you.
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey there, I'm Athos Mesquita, nice to meet you.
 
 <a href="https://discord.gg/2quq78an">
   <img align="left" alt="Athos's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -36,12 +36,6 @@ I am a beginner Full Stack Developer, graduated in control and automation engine
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## My Stats
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athosgpm&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athosgpm&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
