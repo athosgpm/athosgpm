@@ -14,7 +14,7 @@
 
 <br />
 
-I am a beginner Full Stack Developer, graduated in control and automation engineering. I am a passionate apprentice using my knowledge to solve problems. I just love what I do.❤️
+I am a beginner Full Stack Developer, graduated in control and automation engineering. I am a passionate apprentice and interested in problem-solving by using my knowledge. I just love what I do.❤️
 
 ## ⚡ Languages and Tools
 
