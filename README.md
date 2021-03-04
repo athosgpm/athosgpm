@@ -39,5 +39,5 @@ I am a beginner Full Stack Developer, graduated in control and automation engine
 
 ## 🚀 My Stats
 
-![Apoorv's github stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]">
-![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosgpm&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515">
+![Apoorv's github stats](img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Top Langs](img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosgpm&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515")
