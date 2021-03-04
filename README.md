@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/athosmesquita/">
   <img align="left" alt="Athos's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="athos.gpm@gmail.com">
+  <img align="left" alt="Athos's Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
 <a href="https://open.spotify.com/playlist/5FoON8GDk6Zu8Zqq2ZvCxr?si=8a892f6ed0a64afe">
   <img align="left" alt="Athos's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
