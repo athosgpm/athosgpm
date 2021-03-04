@@ -14,7 +14,7 @@
 
 I am a beginner Full Stack Developer, graduated in control and automation engineering. I am a passionate apprentice and interested in problem-solving by using my knowledge. I just love what I do.❤️
 
-# Languages and Tools 🚀<img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
+# ⚡ Languages and Tools
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -32,6 +32,8 @@ I am a beginner Full Stack Developer, graduated in control and automation engine
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+# 🚀 My Stats
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athosgpm&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515)
