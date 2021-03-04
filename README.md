@@ -20,8 +20,7 @@ I am a beginner Full Stack Developer, graduated in control and automation engine
 
 ## Tools and GitHub Stats 🚀<img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
 
-<div align="right">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosgpm&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<div align="right">	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div>
 
