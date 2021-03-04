@@ -10,18 +10,19 @@
   <img align="left" alt="Athos's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=athosgpm.athosgpm)
 
 I am a beginner Full Stack Developer, graduated in control and automation engineering. I am a passionate apprentice and interested in problem-solving by using my knowledge. I just love what I do.❤️
 
-## Languages and Tools 🚀<img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
+# Languages and Tools 🚀<img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
 
-<div align="right" img height="150em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<div>< align="right" img height="150em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /></div>
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 - 🛢 &nbsp;
