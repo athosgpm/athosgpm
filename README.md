@@ -38,8 +38,8 @@ I am a beginner Full Stack Developer, graduated in control and automation engine
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analivia1709&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=analivia1709&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosgpm&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div>
 <!--
 
