@@ -13,7 +13,9 @@
   <img align="left" alt="Athos's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=athosgpm.athosgpm)
+
 
 <br />
 
