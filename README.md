@@ -6,9 +6,6 @@
 <a href="mailto:athos.gpm@gmail.com?">
   <img align="left" alt="Athos's Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://https://discord.gg/DyB6f763YK">
-  <img align="left" alt="Athos's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://open.spotify.com/playlist/5FoON8GDk6Zu8Zqq2ZvCxr?si=8a892f6ed0a64afe">
   <img align="left" alt="Athos's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
