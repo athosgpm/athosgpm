@@ -16,7 +16,7 @@ I am a beginner Full Stack Developer, graduated in control and automation engine
 
 # Languages and Tools 🚀<img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
 
-<div>< align="right" img height="150em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /></div>
+<div align="right">< img height="150em" src="https://github-readme-stats.vercel.app/api?username=athosgpm&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /></div>
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
