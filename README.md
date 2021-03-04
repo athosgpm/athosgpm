@@ -1,13 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Athos Mesquita. Nice to meet you!
 
-<a href="https://discord.gg/2quq78an">
-  <img align="left" alt="Athos's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/athosmesquita/">
   <img align="left" alt="Athos's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:athos.gpm@gmail.com?">
   <img align="left" alt="Athos's Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://https://discord.gg/DyB6f763YK">
+  <img align="left" alt="Athos's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/5FoON8GDk6Zu8Zqq2ZvCxr?si=8a892f6ed0a64afe">
   <img align="left" alt="Athos's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
