@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=24&duration=2500&pause=1000&color=6186A2&vCenter=true&width=420&height=22&lines=I'm+Athos+Mesquita!;I'm+Full-Stack+developer!;Challenges+motivate+me!;Learn+by+solving+problems!;I'm+dedicated+to+success!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=24&duration=2500&pause=500&color=6186A2&vCenter=true&width=420&height=22&lines=I'm+Athos+Mesquita!;I'm+Full-Stack+developer!;Challenges+motivate+me!;Learn+by+solving+problems!;I'm+dedicated+to+success!" alt="Typing SVG" /></a>
 
 <p>I'm a Full Stack Developer with a degree in Control and Automation Engineering. I'm passionate about taking on challenges and finding solutions through my knowledge and skills.</p>
 <p>I believe that every project is unique and deserves focus and dedication to be successful. As a Full Stack Developer, I'm capable of working on different layers of an application, always with the goal of adding value and exceeding clients' expectations.</p>
