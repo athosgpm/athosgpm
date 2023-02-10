@@ -10,10 +10,7 @@
 ![Badge](https://visitor-counter-badge.vercel.app/api/athosgpm/athosgpm) 
 <a href="https://www.github.com/athosgpm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/athosgpm?logo=github&style=for-the-badge&color=6186a2&labelColor=143046" /></a>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="420px" width="400px" alt="GIF" src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg">
-</a>
-
+<img align="right" top="500" height="420px" width="400px" alt="GIF" src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg">
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=24&duration=2500&pause=500&color=6186A2&vCenter=true&width=420&height=22&lines=I'm+Athos+Mesquita!;I'm+Full-Stack+developer!;Challenges+motivate+me!;Learn+by+solving+problems!;I'm+dedicated+to+success!" alt="Typing SVG" /></a>
