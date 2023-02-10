@@ -1,10 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=24&duration=2500&pause=1000&color=CCD6DF&vCenter=true&width=420&height=22&lines=I'm+Athos+Mesquita!;I'm+full-stack+developer!;challenges+motivate+me!;learn+by+solving+problems!;I'm+dedicated+to+success." alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/athosmesquita/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Athos's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Athos's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:athos.gpm@gmail.com?" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Athos's Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <img align="left" alt="Athos's Gmail" width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/athosgpm/athosgpm) 
